@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/lib/TYPE-C-31-M-12")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_STM32G070CBT6/KiCAD/2022-08-24_04-41-37/footprints.pretty")(options "")(descr ""))
+)
